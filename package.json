@@ -1,0 +1,12 @@
+{
+  "name": "GraphQLApplication",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/victorcostac/GraphQLApplication.git",
+  "author": "victorcostac <107112671+victorcostac@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^3.12.1",
+    "graphql": "^16.8.1"
+  }
+}
