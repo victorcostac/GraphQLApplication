@@ -5,8 +5,11 @@
   "repository": "https://github.com/victorcostac/GraphQLApplication.git",
   "author": "victorcostac <107112671+victorcostac@users.noreply.github.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index"},
   "dependencies": {
     "apollo-server": "^3.12.1",
-    "graphql": "^16.8.1"
+    "graphql": "^16.8.1",
+    "nodemon": "^3.0.1"
   }
 }
